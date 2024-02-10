@@ -6,11 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/gowthamvijay162" target="blank"><img src="https://img.shields.io/twitter/follow/gowthamvijay162?logo=twitter&style=for-the-badge" alt="gowthamvijay162" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://gowthamv-portfolio.vercel.app/](https://gowthamv-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gowthamv-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, NextJs, Sveltekit**
 
-- 📄 Know about my experiences [https://gowthamv-portfolio.vercel.app/Resume.pdf](https://gowthamv-portfolio.vercel.app/Resume.pdf)
+- 📫 How to reach me - gajavijay8@gmail.com
+
+- 📄 Know about my experiences [Resume](https://gowthamv-portfolio.vercel.app/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
